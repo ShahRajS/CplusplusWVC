@@ -1,0 +1,4 @@
+﻿  sequence2.cpp
+C:\Users\shahr\source\repos\SequenceDynamic\sequence2.cpp(62,28): warning C4244: 'argument': conversion from 'double' to 'size_t', possible loss of data
+C:\Users\shahr\source\repos\SequenceDynamic\sequence2.cpp(76,28): warning C4244: 'argument': conversion from 'double' to 'size_t', possible loss of data
+  SequenceDynamic.vcxproj -> C:\Users\shahr\source\repos\SequenceDynamic\x64\Debug\SequenceDynamic.exe

@@ -1,0 +1,32 @@
+﻿  sequence4.tpp.h
+  sequence_exam4.cxx
+C:\Users\shahr\source\repos\TemplateLinkedList\sequence_exam4.cxx(358,17): warning C4244: 'argument': conversion from 'size_t' to 'const T', possible loss of data
+          with
+          [
+              T=TestDataType
+          ]
+C:\Users\shahr\source\repos\TemplateLinkedList\sequence_exam4.cxx(502,17): warning C4244: '=': conversion from 'size_t' to 'double', possible loss of data
+C:\Users\shahr\source\repos\TemplateLinkedList\sequence_exam4.cxx(513,20): warning C4244: 'argument': conversion from 'size_t' to 'const T', possible loss of data
+          with
+          [
+              T=TestDataType
+          ]
+C:\Users\shahr\source\repos\TemplateLinkedList\sequence_exam4.cxx(581,17): warning C4244: '=': conversion from 'size_t' to 'double', possible loss of data
+C:\Users\shahr\source\repos\TemplateLinkedList\sequence_exam4.cxx(593,20): warning C4244: 'argument': conversion from 'size_t' to 'const T', possible loss of data
+          with
+          [
+              T=TestDataType
+          ]
+C:\Users\shahr\source\repos\TemplateLinkedList\sequence_exam4.cxx(670,17): warning C4244: '=': conversion from 'size_t' to 'double', possible loss of data
+C:\Users\shahr\source\repos\TemplateLinkedList\sequence_exam4.cxx(675,16): warning C4244: 'argument': conversion from 'size_t' to 'const T', possible loss of data
+          with
+          [
+              T=TestDataType
+          ]
+C:\Users\shahr\source\repos\TemplateLinkedList\sequence_exam4.cxx(681,16): warning C4244: 'argument': conversion from 'size_t' to 'const T', possible loss of data
+          with
+          [
+              T=TestDataType
+          ]
+  Generating Code...
+  TemplateLinkedList.vcxproj -> C:\Users\shahr\source\repos\TemplateLinkedList\x64\Debug\TemplateLinkedList.exe

@@ -1,0 +1,28 @@
+﻿  tabexam.cxx
+C:\Users\shahr\source\repos\ChainHashing\table2.tpp.h(80,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\shahr\source\repos\ChainHashing\table2.tpp.h(75): message : while compiling class template member function 'void Table<TRec>::insert(const RecordType &)'
+          with
+          [
+              RecordType=TRec
+          ]
+C:\Users\shahr\source\repos\ChainHashing\tabexam.cxx(256): message : see reference to function template instantiation 'void Table<TRec>::insert(const RecordType &)' being compiled
+          with
+          [
+              RecordType=TRec
+          ]
+C:\Users\shahr\source\repos\ChainHashing\tabexam.cxx(203): message : see reference to class template instantiation 'Table<TRec>' being compiled
+C:\Users\shahr\source\repos\ChainHashing\table2.tpp.h(115,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\shahr\source\repos\ChainHashing\table2.tpp.h(109): message : while compiling class template member function 'void Table<TRec>::remove(int)'
+C:\Users\shahr\source\repos\ChainHashing\tabexam.cxx(356): message : see reference to function template instantiation 'void Table<TRec>::remove(int)' being compiled
+C:\Users\shahr\source\repos\ChainHashing\table2.tpp.h(187,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\shahr\source\repos\ChainHashing\table2.tpp.h(184): message : while compiling class template member function 'void Table<TRec>::find(int,bool &,RecordType &) const'
+          with
+          [
+              RecordType=TRec
+          ]
+C:\Users\shahr\source\repos\ChainHashing\tabexam.cxx(204): message : see reference to function template instantiation 'void Table<TRec>::find(int,bool &,RecordType &) const' being compiled
+          with
+          [
+              RecordType=TRec
+          ]
+  ChainHashing.vcxproj -> C:\Users\shahr\source\repos\ChainHashing\x64\Debug\ChainHashing.exe

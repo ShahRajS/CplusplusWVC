@@ -1,0 +1,8 @@
+﻿  pqexam1.cxx
+C:\Users\shahr\source\repos\pqueue\pqueue1.h(64,17): warning C4312: 'reinterpret_cast': conversion from 'unsigned int' to 'Node *' of greater size
+  pqtest.cxx
+C:\Users\shahr\source\repos\pqueue\pqueue1.h(64,17): warning C4312: 'reinterpret_cast': conversion from 'unsigned int' to 'Node *' of greater size
+  pqueue1.cpp
+C:\Users\shahr\source\repos\pqueue\pqueue1.h(64,17): warning C4312: 'reinterpret_cast': conversion from 'unsigned int' to 'Node *' of greater size
+  Generating Code...
+  pqueue.vcxproj -> C:\Users\shahr\source\repos\pqueue\x64\Debug\pqueue.exe

@@ -1,0 +1,9 @@
+﻿  sorting.cpp
+C:\Users\shahr\source\repos\SortingAlgos\sorting.cpp(144,61): warning C4244: 'argument': conversion from 'double' to 'size_t', possible loss of data
+C:\Users\shahr\source\repos\SortingAlgos\sorting.cpp(311,16): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\shahr\source\repos\SortingAlgos\sorting.cpp(601,45): warning C4244: 'argument': conversion from 'double' to 'std::streamsize', possible loss of data
+C:\Users\shahr\source\repos\SortingAlgos\sorting.cpp(602,45): warning C4244: 'argument': conversion from 'double' to 'std::streamsize', possible loss of data
+C:\Users\shahr\source\repos\SortingAlgos\sorting.cpp(624,44): warning C4244: 'argument': conversion from 'double' to 'std::streamsize', possible loss of data
+C:\Users\shahr\source\repos\SortingAlgos\sorting.cpp(625,44): warning C4244: 'argument': conversion from 'double' to 'std::streamsize', possible loss of data
+C:\Users\shahr\source\repos\SortingAlgos\sorting.cpp(659,42): warning C4244: 'argument': conversion from 'double' to 'std::streamsize', possible loss of data
+  SortingAlgos.vcxproj -> C:\Users\shahr\source\repos\SortingAlgos\x64\Debug\SortingAlgos.exe
